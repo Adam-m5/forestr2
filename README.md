@@ -1,2 +1,1 @@
-# forestr
-Forest Inventory, Silviculture, Growth and Yield, and Experimental Forestry A modular, unit-aware R ecosystem for forest inventory, silviculture, growth and yield, biodiversity, and experimental forestry.
+forestr is an R package for forest inventory, silviculture, growth and yield, biodiversity, and experimental forestry. It provides unit-aware tree/plot/stand constructors, volume (Smalian/Huber/Newton), biomass, carbon, CO2e, growth models (Chapman-Richards, Gompertz), ANOVA, and design-based estimators. MIT license. Author: Adam Mugisha.
